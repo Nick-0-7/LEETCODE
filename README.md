@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Nick-0-7/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
+| [0287-find-the-duplicate-number](https://github.com/Nick-0-7/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nick-0-7/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Math
 |  |
@@ -34,4 +35,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Nick-0-7/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
+## Two Pointers
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Nick-0-7/LEETCODE/tree/master/0287-find-the-duplicate-number) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Nick-0-7/LEETCODE/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Nick-0-7/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
