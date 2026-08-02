@@ -19,12 +19,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Nick-0-7/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0287-find-the-duplicate-number](https://github.com/Nick-0-7/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0724-find-pivot-index](https://github.com/Nick-0-7/LEETCODE/tree/master/0724-find-pivot-index) |
+| [0877-stone-game](https://github.com/Nick-0-7/LEETCODE/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Nick-0-7/LEETCODE/tree/master/0881-boats-to-save-people) |
 | [1046-last-stone-weight](https://github.com/Nick-0-7/LEETCODE/tree/master/1046-last-stone-weight) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nick-0-7/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Math
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/Nick-0-7/LEETCODE/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nick-0-7/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
@@ -71,4 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Nick-0-7/LEETCODE/tree/master/0058-length-of-last-word) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Nick-0-7/LEETCODE/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Nick-0-7/LEETCODE/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
