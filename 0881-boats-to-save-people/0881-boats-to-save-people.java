@@ -9,7 +9,7 @@ class Solution {
             start++;
             end--;
             }
-            else if(people[start]+people[end]>limit){
+            else {
             boat++;
             end--;
             }
