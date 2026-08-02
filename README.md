@@ -67,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Nick-0-7/LEETCODE/tree/master/0881-boats-to-save-people) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/Nick-0-7/LEETCODE/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
