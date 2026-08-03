@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Nick-0-7/LEETCODE/tree/master/0031-next-permutation) |
 | [0128-longest-consecutive-sequence](https://github.com/Nick-0-7/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0287-find-the-duplicate-number](https://github.com/Nick-0-7/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0724-find-pivot-index](https://github.com/Nick-0-7/LEETCODE/tree/master/0724-find-pivot-index) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Nick-0-7/LEETCODE/tree/master/0031-next-permutation) |
 | [0287-find-the-duplicate-number](https://github.com/Nick-0-7/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0881-boats-to-save-people](https://github.com/Nick-0-7/LEETCODE/tree/master/0881-boats-to-save-people) |
 ## Binary Search
