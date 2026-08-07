@@ -1,3 +1,55 @@
+<h1 align="center">☕ Java DSA & LeetCode Solutions</h1>
+
+<p align="center">
+  <a href="https://leetcode.com/u/NikhilMkutre/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+  </a>
+
+  <a href="https://github.com/Nick-0-7">
+    <img src="https://img.shields.io/badge/GitHub-Nick--0--7-black?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+## 👋 About Me
+
+I'm **Nikhil Kutre**, a Computer Science Engineering student passionate about solving Data Structures & Algorithms problems in **Java**.
+
+This repository is automatically updated using **LeetHub v2**, which syncs my accepted LeetCode submissions and organizes them by topic.
+
+---
+
+## 🎯 Goals
+
+- 🚀 Solve **500+ LeetCode** problems
+- ☕ Master Java DSA
+- 💼 Prepare for Software Engineering interviews
+- 📚 Build strong problem-solving skills
+
+---
+
+## 📈 Progress
+
+| Difficulty | Solved |
+|------------|-------:|
+| 🟢 Easy | 0 |
+| 🟡 Medium | 0 |
+| 🔴 Hard | 0 |
+| ⭐ Total | 0 |
+
+> I'll keep updating these numbers as I solve more problems.
+
+---
+
+## 🌐 Coding Profiles
+
+- 💛 **LeetCode:** https://leetcode.com/u/NikhilMkutre/
+- 💻 **GitHub:** https://github.com/Nick-0-7
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/nikhil-kutre-98322a334
+
+---
+
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 <!---LeetCode Topics Start-->
 # LeetCode Topics
