@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Nick-0-7/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Nick-0-7/LEETCODE/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Nick-0-7/LEETCODE/tree/master/0443-string-compression) |
+| [0520-detect-capital](https://github.com/Nick-0-7/LEETCODE/tree/master/0520-detect-capital) |
 ## Dynamic Programming
 |  |
 | ------- |
