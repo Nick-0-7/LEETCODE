@@ -29,16 +29,23 @@ This repository is automatically updated using **LeetHub v2**, which syncs my ac
 
 ---
 
-## 📈 Progress
+# 🧠 LeetCode
 
-| Difficulty | Solved |
-|------------|-------:|
-| 🟢 Easy | 0 |
-| 🟡 Medium | 0 |
-| 🔴 Hard | 0 |
-| ⭐ Total | 0 |
+<p align="center">
+  <a href="https://leetcode.com/u/NikhilMkutre/">
+    <img
+      src="https://leetcard.jacoblin.cool/NikhilMkutre?theme=dark&font=Karma&ext=contest"
+      width="500"
+      alt="Nikhil Kutre LeetCode Stats"
+    />
+  </a>
+</p>
 
-> I'll keep updating these numbers as I solve more problems.
+<p align="center">
+  <b>🏆 Contest Rating: 1480</b>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <b>🎯 Contests Attended: 1</b>
+</p>
 
 ---
 
