@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Nick-0-7/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Nick-0-7/LEETCODE/tree/master/0048-rotate-image) |
 | [0877-stone-game](https://github.com/Nick-0-7/LEETCODE/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nick-0-7/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Nick-0-7/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Nick-0-7/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Nick-0-7/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Nick-0-7/LEETCODE/tree/master/0217-contains-duplicate) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Nick-0-7/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Nick-0-7/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Nick-0-7/LEETCODE/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Nick-0-7/LEETCODE/tree/master/0125-valid-palindrome) |
