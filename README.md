@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Nick-0-7/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/Nick-0-7/LEETCODE/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/Nick-0-7/LEETCODE/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Nick-0-7/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Nick-0-7/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Nick-0-7/LEETCODE/tree/master/0217-contains-duplicate) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Nick-0-7/LEETCODE/tree/master/0048-rotate-image) |
 | [0877-stone-game](https://github.com/Nick-0-7/LEETCODE/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nick-0-7/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Nick-0-7/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -192,5 +194,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Nick-0-7/LEETCODE/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Nick-0-7/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
