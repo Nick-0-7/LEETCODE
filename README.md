@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Nick-0-7/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nick-0-7/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2951-find-the-peaks](https://github.com/Nick-0-7/LEETCODE/tree/master/2951-find-the-peaks) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Nick-0-7/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Math
 |  |
 | ------- |
@@ -212,4 +213,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Nick-0-7/LEETCODE/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/Nick-0-7/LEETCODE/tree/master/1929-concatenation-of-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Nick-0-7/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
