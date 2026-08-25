@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nick-0-7/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2951-find-the-peaks](https://github.com/Nick-0-7/LEETCODE/tree/master/2951-find-the-peaks) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Nick-0-7/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Nick-0-7/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Nick-0-7/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Nick-0-7/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nick-0-7/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Nick-0-7/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3945-digit-frequency-score](https://github.com/Nick-0-7/LEETCODE/tree/master/3945-digit-frequency-score) |
 ## Union-Find
 |  |
