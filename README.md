@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Nick-0-7/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nick-0-7/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Nick-0-7/LEETCODE/tree/master/0645-set-mismatch) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Nick-0-7/LEETCODE/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Nick-0-7/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3945-digit-frequency-score](https://github.com/Nick-0-7/LEETCODE/tree/master/3945-digit-frequency-score) |
 ## Union-Find
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Nick-0-7/LEETCODE/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Nick-0-7/LEETCODE/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/Nick-0-7/LEETCODE/tree/master/0520-detect-capital) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Nick-0-7/LEETCODE/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -223,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Nick-0-7/LEETCODE/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/Nick-0-7/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Nick-0-7/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Counting
+|  |
+| ------- |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Nick-0-7/LEETCODE/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 <!---LeetCode Topics End-->
