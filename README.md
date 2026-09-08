@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Nick-0-7/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
+| [2390-removing-stars-from-a-string](https://github.com/Nick-0-7/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 ## Design
 |  |
 | ------- |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Nick-0-7/LEETCODE/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/Nick-0-7/LEETCODE/tree/master/0520-detect-capital) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Nick-0-7/LEETCODE/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
+| [2390-removing-stars-from-a-string](https://github.com/Nick-0-7/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Nick-0-7/LEETCODE/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/Nick-0-7/LEETCODE/tree/master/1929-concatenation-of-array) |
+| [2390-removing-stars-from-a-string](https://github.com/Nick-0-7/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Nick-0-7/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Counting
 |  |
