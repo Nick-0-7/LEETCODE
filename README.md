@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Nick-0-7/LEETCODE/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Nick-0-7/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nick-0-7/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Nick-0-7/LEETCODE/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2951-find-the-peaks](https://github.com/Nick-0-7/LEETCODE/tree/master/2951-find-the-peaks) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Nick-0-7/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Nick-0-7/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Nick-0-7/LEETCODE/tree/master/0520-detect-capital) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Nick-0-7/LEETCODE/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2390-removing-stars-from-a-string](https://github.com/Nick-0-7/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Nick-0-7/LEETCODE/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 ## Dynamic Programming
 |  |
 | ------- |
