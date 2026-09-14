@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Nick-0-7/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Nick-0-7/LEETCODE/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Nick-0-7/LEETCODE/tree/master/0067-add-binary) |
+| [0836-rectangle-overlap](https://github.com/Nick-0-7/LEETCODE/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Nick-0-7/LEETCODE/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nick-0-7/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Nick-0-7/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -249,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Nick-0-7/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Nick-0-7/LEETCODE/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
