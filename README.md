@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Nick-0-7/LEETCODE/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Nick-0-7/LEETCODE/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/Nick-0-7/LEETCODE/tree/master/0881-boats-to-save-people) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nick-0-7/LEETCODE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Binary Search
 |  |
 | ------- |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Nick-0-7/LEETCODE/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Nick-0-7/LEETCODE/tree/master/0605-can-place-flowers) |
 | [0881-boats-to-save-people](https://github.com/Nick-0-7/LEETCODE/tree/master/0881-boats-to-save-people) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nick-0-7/LEETCODE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sorting
 |  |
 | ------- |
@@ -202,12 +204,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Nick-0-7/LEETCODE/tree/master/0520-detect-capital) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Nick-0-7/LEETCODE/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2390-removing-stars-from-a-string](https://github.com/Nick-0-7/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nick-0-7/LEETCODE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Nick-0-7/LEETCODE/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Nick-0-7/LEETCODE/tree/master/0115-distinct-subsequences) |
 | [0877-stone-game](https://github.com/Nick-0-7/LEETCODE/tree/master/0877-stone-game) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nick-0-7/LEETCODE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Game Theory
 |  |
 | ------- |
