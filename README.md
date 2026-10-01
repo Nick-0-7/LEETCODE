@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Nick-0-7/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/Nick-0-7/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [2390-removing-stars-from-a-string](https://github.com/Nick-0-7/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 ## Design
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Nick-0-7/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Nick-0-7/LEETCODE/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Nick-0-7/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Nick-0-7/LEETCODE/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Nick-0-7/LEETCODE/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/Nick-0-7/LEETCODE/tree/master/0115-distinct-subsequences) |
@@ -274,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Nick-0-7/LEETCODE/tree/master/0141-linked-list-cycle) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Nick-0-7/LEETCODE/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
