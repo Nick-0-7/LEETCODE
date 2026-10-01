@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Nick-0-7/LEETCODE/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Nick-0-7/LEETCODE/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Nick-0-7/LEETCODE/tree/master/0455-assign-cookies) |
+| [0876-middle-of-the-linked-list](https://github.com/Nick-0-7/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Nick-0-7/LEETCODE/tree/master/0881-boats-to-save-people) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nick-0-7/LEETCODE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Binary Search
@@ -265,4 +266,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Nick-0-7/LEETCODE/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Nick-0-7/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
