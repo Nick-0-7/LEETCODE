@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/Nick-0-7/LEETCODE/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Nick-0-7/LEETCODE/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nick-0-7/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2409-count-days-spent-together](https://github.com/Nick-0-7/LEETCODE/tree/master/2409-count-days-spent-together) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Nick-0-7/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Nick-0-7/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Nick-0-7/LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Nick-0-7/LEETCODE/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Nick-0-7/LEETCODE/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2390-removing-stars-from-a-string](https://github.com/Nick-0-7/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
+| [2409-count-days-spent-together](https://github.com/Nick-0-7/LEETCODE/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nick-0-7/LEETCODE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Nick-0-7/LEETCODE/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 ## Dynamic Programming
